@@ -1,5 +1,5 @@
 {
-  "name": "normalize.scss-vanilla",
+  "name": "normalize-scss-vanilla",
   "version": "1.0.0",
   "description": "Normalize.css as a node packaged SCSS Libsass module with no changes",
   "files": [
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PJL101/normalize.scss-vanilla.git"
+    "url": "git://github.com/PJL101/normalize-scss-vanilla.git"
   },
   "main": "_normalize.scss",
   "author": "Phil Lennon <enquiry@akuda.co.uk>",
