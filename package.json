@@ -1,18 +1,16 @@
 {
-  "name": "normalize.css",
-  "version": "3.0.3",
-  "description": "Normalize.css as a node packaged module",
-  "style": "normalize.css",
+  "name": "normalize.scss",
+  "version": "0.1.0",
+  "description": "Normalize.css as a node packaged SCSS module",
   "files": [
     "LICENSE.md",
-    "normalize.css"
+    "_normalize.scss"
   ],
-  "homepage": "http://necolas.github.io/normalize.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/necolas/normalize.css.git"
+    "url": "git://github.com/PJL101/normalize.scss.git"
   },
-  "main": "normalize.css",
-  "author": "Nicolas Gallagher",
+  "main": "_normalize.scss",
+  "author": "Phil Lennon <enquiry@akuda.co.uk>",
   "license": "MIT"
 }
