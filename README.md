@@ -1,8 +1,6 @@
-# normalize-scss-vanilla
+# node-normalize-scss
 
-* Source: [github.com/akuda/normalize-scss-vanilla](http://github.com/akuda/normalize-scss-vanilla)
-* Author: [Phil Lennon](http://akuda.co.uk)
-* Twitter: [@PJL101](http://twitter.com/pjl101)
+* Forked from: [github.com/akuda/normalize-scss-vanilla](http://github.com/akuda/normalize-scss-vanilla)
 
 This is simply a renamed normalize.css file, suitable for importing with npm and libsass directly. No changes have been made to the actual file.
 
