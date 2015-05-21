@@ -1,10 +1,11 @@
 {
   "name": "node-normalize-scss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Normalize.css as an npm packaged, libsass module with no changes",
   "files": [
     "LICENSE.md",
-    "_normalize.scss"
+    "_normalize.scss",
+    "index.js"
   ],
   "repository": {
     "type": "git",
