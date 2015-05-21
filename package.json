@@ -1,6 +1,6 @@
 {
-  "name": "normalize-scss-vanilla",
-  "version": "1.0.2",
+  "name": "node-normalize-scss",
+  "version": "1.0.0",
   "description": "Normalize.css as an npm packaged, libsass module with no changes",
   "files": [
     "LICENSE.md",
@@ -8,9 +8,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/akuda/normalize-scss-vanilla.git"
+    "url": "git://github.com/ranjandatta/node-normalize-scss.git"
   },
   "main": "index.js",
-  "author": "Phil Lennon <enquiry@akuda.co.uk>",
+  "author": "Phil Lennon <ranjandatta@gmail.com>",
   "license": "MIT"
 }
