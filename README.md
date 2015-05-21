@@ -6,6 +6,12 @@ This is simply a renamed normalize.css file, suitable for importing with npm and
 
 Based on version 3.0.3
 
+###Install
+
+```
+npm install node-normalize-scss --save-dev
+```
+
 ### Stylesheet usage
 
 Use either method above or for your chosen task runner (gulp.js, Grunt, etc.), then in your stylesheet:
