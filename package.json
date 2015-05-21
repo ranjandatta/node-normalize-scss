@@ -11,6 +11,6 @@
     "url": "git://github.com/ranjandatta/node-normalize-scss.git"
   },
   "main": "index.js",
-  "author": "Phil Lennon <ranjandatta@gmail.com>",
+  "author": "Ranjan Datta <ranjandatta@gmail.com>",
   "license": "MIT"
 }

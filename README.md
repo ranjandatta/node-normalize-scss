@@ -25,9 +25,9 @@ var sass = require('gulp-sass');
 gulp.task('sass', function () {
   gulp.src('path/to/input.scss')
     .pipe(sass({
-      // includePaths: require('normalize-scss-vanilla').with('other/path', 'another/path')
+      // includePaths: require('node-normalize-scss').with('other/path', 'another/path')
       // - or -
-      includePaths: require('normalize-scss-vanilla').includePaths
+      includePaths: require('node-normalize-scss').includePaths
     }))
     .pipe(gulp.dest('path/to/output.css'));
 });
@@ -49,9 +49,9 @@ grunt.initConfig({
   sass: {
     dist: {
       options: {
-        // includePaths: require('normalize-scss-vanilla').with('other/path', 'another/path')
+        // includePaths: require('node-normalize-scss').with('other/path', 'another/path')
         // - or -
-        includePaths: require('normalize-scss-vanilla').includePaths
+        includePaths: require('node-normalize-scss').includePaths
       },
       files: {
         'path/to/output.css': 'path/to/input.scss'

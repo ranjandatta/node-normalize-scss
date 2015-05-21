@@ -1,6 +1,6 @@
 var path = require('path');
 
-var normalizeEntryPoint = require.resolve('normalize-scss-vanilla');
+var normalizeEntryPoint = require.resolve('node-normalize-scss');
 var normalizeDir = path.dirname(normalizeEntryPoint);
 
 function includePaths() {
