@@ -4,7 +4,7 @@
 
 This is simply a renamed normalize.css file, suitable for importing with npm and libsass directly. No changes have been made to the actual file.
 
-Based on version 3.0.3
+Based on version 4.0.0
 
 ###Install
 
