@@ -1,6 +1,6 @@
 {
   "name": "node-normalize-scss",
-  "version": "3.0.0",
+  "version": "8.0.0",
   "description": "Normalize.css as an npm packaged, libsass module with no changes",
   "files": [
     "LICENSE.md",
