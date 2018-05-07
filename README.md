@@ -2,7 +2,7 @@
 
 This is simply a renamed normalize.css file, suitable for importing with npm and libsass directly. No changes have been made to the actual file.
 
-Based on [normalize.css](https://github.com/necolas/normalize.css) version 7.0.0
+Based on [normalize.css](https://github.com/necolas/normalize.css) version 8.0.0
 
 ###Install
 
