@@ -6,7 +6,7 @@ This is simply a renamed normalize.css file, suitable for importing with npm and
 
 Based on [normalize.css](https://github.com/necolas/normalize.css) version 8.0.1
 
-###Install
+### Install
 
 ```
 npm install node-normalize-scss --save-dev
