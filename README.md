@@ -1,6 +1,6 @@
 # node-normalize-scss
 
-## This repo will no longer be maintained. Please see [scss-resets](https://gitlab.com/ranjandatta/saral). Along with normalize it also has other css resets all in one package.
+## This repo will no longer be maintained. Please see [scss-resets](https://gitlab.com/ranjandatta/scss-resets). Along with normalize it also has other css resets all in one package.
 
 This is simply a renamed normalize.css file, suitable for importing with npm and libsass directly. No changes have been made to the actual file.
 
